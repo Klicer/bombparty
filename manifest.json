@@ -3,9 +3,7 @@
   "description": "Intended for educational purposes only.",
   "version": "1.0",
   "manifest_version": 3,
-  "background": {
-    "service_worker": "background.js"
-  },
+  "background": {},
   "permissions": ["storage", "activeTab", "scripting", "webNavigation"],
   "host_permissions": [
     "https://jklm.fun/*",
