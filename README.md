@@ -1,3 +1,11 @@
+# Important Update!!
+
+This project is no longer being maintained.
+
+Seems like the game website has been updated which has broken something. Fixing it should be fairly easy, so if someone wants to give it a try, feel free.
+
+# Bombparty Helper
+
 Never made a chrome extension before, mashed this up in about 30 minutes.
 Code is very ugly and I wasn't planning on putting this on GitHub. Please only use this to practice and help you learn more words. Any abuse will get you banned by ingame moderators.
 
